@@ -3,6 +3,8 @@
 Interaktive 3D-Szene mit schwebenden Glassymbolen.  
 Die Formen reagieren auf die Maus und weichen sanft aus.
 
+## 👀 Preview: [Klick hier!](https://boxnixta.github.io/threejs-symbols-scene/)
+
 ## Voraussetzungen
 
 - Node.js (https://nodejs.org) muss installiert sein
