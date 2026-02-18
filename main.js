@@ -78,7 +78,7 @@ const getFrostedMaterial = (color) => {
         thickness: 0.8,
         transparent: true,
         emissive: baseColor,         // leuchtet in eigener Farbe
-        emissiveIntensity: 0.2,      
+        emissiveIntensity: 0.3,      
         specularIntensity: 3.0,
         specularColor: new THREE.Color(0xffffff),
         clearcoat: 0.5,
