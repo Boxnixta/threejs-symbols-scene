@@ -141,8 +141,8 @@ function loadSVGSymbol(url, color, position) {
     });
 }
 
-loadSVGSymbol('./symbols/Herz.svg', getFrostedMaterial, new THREE.Vector3(5, 6, 1.5));
-loadSVGSymbol('./symbols/Logo.svg', getFrostedMaterial, new THREE.Vector3(-15, -2, 2));
+loadSVGSymbol('./public/symbols/Herz.svg', getFrostedMaterial, new THREE.Vector3(5, 6, 1.5));
+loadSVGSymbol('./public/symbols/Logo.svg', getFrostedMaterial, new THREE.Vector3(-15, -2, 2));
 
 const floatingMeshes = [];
 const symbols = ['*', '+', '&', '!', '«', '?', 'o', 'λ', '(('];
