@@ -23,7 +23,7 @@ Die Formen reagieren auf die Maus und weichen sanft aus.
 4. Entwicklungsserver starten:
    npm run dev
 
-→ Die Szene öffnet sich unter dem Link http://localhost:...
+→ Die Szene öffnet sich unter dem Link http://localhost:5173
 
 ## Eigene SVGs hinzufügen
 
@@ -40,5 +40,4 @@ npm run deploy
 ## Farben anpassen
 
 Über das GUI-Panel oben rechts im Browser können  
-die 5 Glasfarben live angepasst werden.
-
+die 5 Glasfarben live angepasst werde.
