@@ -10,7 +10,7 @@ Die Formen reagieren auf die Maus und weichen sanft aus.
 ## Setup
 
 1. Repository klonen:
-   git clone https://github.com/DEINUSERNAME/DEINREPONAME.git
+   git clone https://github.com/Boxnixta/threejs-symbols-scene.git
 
 2. In den Ordner wechseln:
    cd DEINREPONAME
@@ -21,7 +21,7 @@ Die Formen reagieren auf die Maus und weichen sanft aus.
 4. Entwicklungsserver starten:
    npm run dev
 
-→ Die Szene öffnet sich unter http://localhost:5173
+→ Die Szene öffnet sich unter dem Link http://localhost:...
 
 ## Eigene SVGs hinzufügen
 
@@ -40,11 +40,3 @@ npm run deploy
 Über das GUI-Panel oben rechts im Browser können  
 die 5 Glasfarben live angepasst werden.
 
-## Projektstruktur
-''''
-├── index.html       – HTML Grundstruktur
-├── main.js          – Gesamte 3D-Szene und Logik
-├── symbols/         – SVG-Dateien für eigene Formen
-├── package.json     – Projektabhängigkeiten
-└── vite.config.js   – Build-Konfiguration
-''''
